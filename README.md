@@ -15,11 +15,12 @@ N/A
 In review
 
 ## Project Overview
-Logitech Lighspeed is a technology that advertises that it's devices has less than 1ms latency while retaining a long battery life of 10-30 hours. A generic solution that can be built by the average hobbyist or student is not yet widely available. This project seeks to create a framework and example for other projects that have use of this type of technology. The design is implemented in a dance pad for entertainment as a controller on PC to show the capabilities. 
+Logitech Lighspeed is a technology that advertises that it's devices has less than 1ms latency while retaining a long battery life of 10-30 hours. A generic solution that can be built by the average hobbyist or student is not yet widely available. This project seeks to create a framework and example for other projects that have use of this type of technology. The design is implemented in a dance pad as a controller on PC to show the capabilities of this technology.<br><br>
+
+This 
 
 ## Educational Value Added
-
-The students learn how to create efficient low power embedded systems that utilize the nrf24L01+ transciever and LiPo batteries. 
+The students demonstrate desiging low power embedded systems that utilize the nrf24L01+ transciever and LiPo batteries, desiging hardware to manage LiPo batteries, desiging, testing, and validating PCBs, and . 
 
 ## Tasks
 N/A
