@@ -3,7 +3,7 @@ Alexander Lee, Computer Engineering Student (2024)
 alexlee1017@vt.edu
 
 ## Repo Link
-<a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
+<a class="button is-link" href="[https://magicmirror.builders/](https://github.com/AlexLeeVT/DancePad)" >https://github.com/AlexLeeVT/DancePad</a>
 
 ## Photo
 {% include youtube.html video="miltuOLWDFQ" %}
