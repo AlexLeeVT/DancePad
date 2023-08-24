@@ -1,6 +1,6 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Alexander Lee, Computer Engineering Student (2024)
+alexlee1017@vt.edu
 
 ## Repo Link
 <a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
@@ -9,18 +9,17 @@ rhforsythjr@vt.edu
 {% include youtube.html video="miltuOLWDFQ" %}
 
 ## Mentor
-Josh Sutton, Electrical Engineering 2021
+none
 
 ## Current Status
-Complete
+In review
 
 ## Project Overview
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+Logitech Lighspeed is a technology that advertises that it's devices has less than 1ms latency while retaining a long battery life of 10-30 hours. A generic solution that can be built by the average hobbyist or student is not yet widely available. This project seeks to create a framework and example for other projects that have use of this type of technology. The design is implemented in a dance pad for entertainment as a controller on PC to show the capabilities. 
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+The students learn how to create efficient low power embedded systems that utilize the nrf24L01+ transciever and LiPo batteries. 
 
 ## Tasks
 
