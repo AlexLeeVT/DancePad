@@ -6,10 +6,10 @@ alexlee1017@vt.edu
 <a class="button is-link" href="[https://magicmirror.builders/](https://github.com/AlexLeeVT/DancePad)" >https://github.com/AlexLeeVT/DancePad</a>
 
 ## Photo
-{% include youtube.html video="miltuOLWDFQ" %}
+N/A
 
 ## Mentor
-none
+N/A
 
 ## Current Status
 In review
@@ -22,33 +22,25 @@ Logitech Lighspeed is a technology that advertises that it's devices has less th
 The students learn how to create efficient low power embedded systems that utilize the nrf24L01+ transciever and LiPo batteries. 
 
 ## Tasks
-
-<!-- Your Text Here. See Example above -->
+N/A
 
 ## Design Decisions
-
-<!-- Your Text Here. See Example above -->
+N/A
 
 ## Design Misc
-
-<!-- Your Text Here. See Example above -->
+N/A
 
 ## Steps for Documenting Your Design Process
-
-<!-- Your Text Here. See Example above -->
+N/A
 
 ## BOM + Component Cost
-
-<!-- Your Text Here. See Example above -->
+N/A
 
 ## Timeline
-
-<!-- Your Text Here. See Example above -->
+N/A
 
 ## Useful Links
-
-<!-- Your Text Here. See Example above -->
+N/A
 
 ## Log
-
-<!-- Your Text Here. See Example above -->
+N/A
