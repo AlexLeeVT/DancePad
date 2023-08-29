@@ -1,6 +1,9 @@
 ## Members
 Alexander Lee, Computer Engineering Student (2024) <br>
-alexlee1017@vt.edu
+alexlee1017@vt.edu <br><br>
+
+Yivvone Chen, Computer Science Student (2025) <br>
+ychen@vt.edu
 
 ## Repo Link
 <a class="button is-link" href="[https://magicmirror.builders/](https://github.com/AlexLeeVT/DancePad)" >https://github.com/AlexLeeVT/DancePad</a>
