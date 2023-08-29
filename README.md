@@ -22,7 +22,7 @@ The dance pad utilizes a RP2040 as the MCU for it's relatively low power consump
 The stretch goals of this project include artistic choices and extra features. This includes adding sheet metal on top of the dance pad frame, a localally hosted website using the pi pico w's wifi compatibility to control an LED matrix, and an LED matrix to provide a lightshow while dancing.
 
 ## Educational Value Added
-This project focuses on three topics: low power embedded systems, power management with LiPo batteries, and integrating electrical hardware in physical hardware. The students demonstrate designing low power embedded systems that utilize the nrf24L01 and LiPo batteries, protyping, testing, and implementing a LiPo battery management system (BMS), desiging, testing, and validating PCBs, and practicing CAD, machining, and 3D printing skills. 
+This project focuses on three topics: low power embedded systems, power management with LiPo batteries, and integrating electrical hardware in robust physical hardware. The students demonstrate designing low power embedded systems that utilize the nrf24L01 and LiPo batteries, applying knowledge of wireless systems (low latency short range communication, Wi-Fi, bluetooth), protyping, testing, and implementing a LiPo battery management system (BMS), desiging, testing, and validating PCBs, and practicing CAD, machining, and 3D printing skills. 
 
 ## Tasks
 N/A
