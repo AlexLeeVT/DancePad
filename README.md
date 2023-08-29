@@ -1,8 +1,8 @@
 ## Members
-Alexander Lee, Computer Engineering Student (2024) <br>
+Alexander Lee, Computer Engineering (2024) <br>
 alexlee1017@vt.edu <br><br>
 
-Yivvone Chen, Computer Science Student (2025) <br>
+Yivvone Chen, Computer Science (2025) <br>
 ychen@vt.edu
 
 ## Repo Link
