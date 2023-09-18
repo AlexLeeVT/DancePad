@@ -12,10 +12,10 @@ yvvyc@vt.edu
 N/A
 
 ## Mentor
-N/A
+Neil B.
 
 ## Current Status
-In review
+Approved/In Developent
 
 ## Project Overview
 Logitech Lightspeed is a technology that advertises that it's devices has less than 1ms latency while retaining a long battery life of 10-30 hours. A generic solution that can be built by the average hobbyist or student is not yet widely available. This project seeks to create an example for other projects that have use of this type of technology. The design is implemented in a dance pad as a controller on PC to show the capabilities of this technology.<br><br>
