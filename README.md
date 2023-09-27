@@ -37,16 +37,24 @@ N/A
 N/A
 
 ## Steps for Documenting Your Design Process
-N/A
+during design and development, record short videos documenting the process and reporting progress on the project.
 
 ## BOM + Component Cost
 N/A
 
 ## Timeline
-N/A
+1. Prototype and develop electronics
+   - force sensitive resistors & LiPo battery charger must function
+   - low power functionality with the microcontroller must be achieved
+   - PCB constructed, but does not have to be finalized.
+2. Construct and build frame for the DDR/PIU dance pad
+   - 3D CAD file constructed
+   - MDF base must have FSRs installed and polycarbonate panels with spacers must be completed
+3. Finishing touches and wireless connectivity
+   - ~3-5ms wireless latency with <1ms USB latency with PC
 
 ## Useful Links
-N/A
+GreatScott! single cell lipo battery charger - [](https://www.youtube.com/watch?v=6LxRnf6sQNQ)
 
 ## Log
 N/A
