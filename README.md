@@ -54,7 +54,7 @@ N/A
    - ~3-5ms wireless latency with <1ms USB latency with PC
 
 ## Useful Links
-GreatScott! single cell lipo battery charger - [](https://www.youtube.com/watch?v=6LxRnf6sQNQ)
+GreatScott! single cell lipo battery charger - [https://www.youtube.com/watch?v=6LxRnf6sQNQ](https://www.youtube.com/watch?v=6LxRnf6sQNQ)
 
 ## Log
 N/A
