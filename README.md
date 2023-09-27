@@ -31,7 +31,9 @@ This project focuses on three topics: low power embedded systems, power manageme
 N/A
 
 ## Design Decisions
-N/A
+   The purpose of this project is to create a wireless low power embedded system with short range wireless communication that has low latency between the transmitter and receiver. For this purpose, two microcontrollers are utilized: esp32 and pi pico. The Pi Pico has a simple to implement design with a low cost of $5 per module. It is also compatible with TUSB, a library that interfaces with the USB protocol on Windows. It allows the Pi Pico to function as a keyboard, gamepad, or even a MIDI device but for the purpose of this project, it will only act as a gamepad. The pi pico has two wireless protocols on board: bluetooth and wifi, however both are costly in terms of power consumption and latency. It also might have interference from other local devices with the same protocols attempting to connect to the networks. Their purpose, while can be used for data transfer, is not meant strictly for peer to peer connections -- rather it is for a more general applications. Instead of using WiFi, Bluetooth, or LoRa, the NRF24l01 transciever (configured as a receiver) is utilized as the wireless communication module to communicate between the ESP32 (which also has ble and WiFi) and Pi Pico. 
+   The ESP32 is utilized for it's versatility in functionality and IO ports and is used as the microcontroller on the wireless system. It has built in low power functionality with 20 ADC pins available which will be important in a later design point. The low power funcionality disables unnecessary modules that consume power such as the BLE and WiFi modules meaning a lower average power consumption is observed. When power efficiency is important, any features that lower power consumption are important. Other modules found on the system are force sensitive resistors (FSRs), the NRF24l01 configured as the transmitter, and BMS and protection circuit for the LiPo battery.
+   Physical hardware is important for human interaction with the device. Structural integrity is an integral feature of the system as high impact force is often observed
 
 ## Design Misc
 N/A
@@ -40,7 +42,17 @@ N/A
 during design and development, record short videos documenting the process and reporting progress on the project.
 
 ## BOM + Component Cost
-N/A
+
+Pi Pico - $5
+ESP32 - $30
+LiPo battery - ~$10
+PCB & components - ~$2-5
+velostat - $5
+copper ribbon
+plywood/osb - ~$20
+MDF - $43
+screws - $12
+polycarbonate - $88
 
 ## Timeline
 1. Prototype and develop electronics
