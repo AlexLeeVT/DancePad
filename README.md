@@ -31,7 +31,7 @@ This project focuses on three topics: low power embedded systems, power manageme
 Prototyping:
 Order electrical parts - In progress
 Order hardware - Not yet started
-Develop software for wireless transmission - completed
+Develop software for wireless transmission - in progress
 Develop interface with computer - completed
 Integrate hardware - Not yet started
 Full CAD - Not yet started
